@@ -73,7 +73,7 @@ Over time, we turned it into a small app to make comparison and discussion easie
 
 ---
 
-### Resources
+### Related resources
 
 - [Notion templates to support intimate conversations as a couple](https://www.notion.so/Notion-templates-to-support-intimate-conversations-as-a-couple-2e396da4e8788069bac6e09ba1481dcb?pvs=21) 
 - [Couple communication worksheet (Yes / No / Maybe) ](https://docs.google.com/document/d/1lZgL1dKa7yQyoO5Q1womjRsJXEjOSq1kylNO1rvXJBA/edit?tab=t.0)
