@@ -1,4 +1,5 @@
 # Couple Intimacy Check-In
+A simple worksheet to help couples explore how they feel about intimacy in a calm and structured way.
 
 
 ### **Purpose**
@@ -62,7 +63,7 @@ We originally created this worksheet for ourselves.
 
 Over time, we turned it into a small app to make comparison and discussion easier, while keeping everything private and pressure free : [https://yes-no-maybe.app](https://yes-no-maybe.app/)
 
-### Other resources
+### Related resources
 
 - [Notion templates to support intimate conversations as a couple](https://www.notion.so/Notion-templates-to-support-intimate-conversations-as-a-couple-2e396da4e8788069bac6e09ba1481dcb?pvs=21) 
 - [Couple communication worksheet (Yes / No / Maybe) ](https://docs.google.com/document/d/1lZgL1dKa7yQyoO5Q1womjRsJXEjOSq1kylNO1rvXJBA/edit?tab=t.0)
