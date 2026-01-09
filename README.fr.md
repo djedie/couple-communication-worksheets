@@ -100,6 +100,18 @@ Elles ont ensuite inspiré une application web simple et privée, qui transforme
 
 ## Licence
 
-Ces contenus sont partagés sous licence Creative Commons Attribution – Non Commercial.
+Ce projet est publié sous **licence MIT**.
 
-Vous pouvez les utiliser, adapter et partager librement à des fins non commerciales, en citant la source.
+Vous êtes libre de :
+- utiliser
+- copier
+- modifier
+- fusionner
+- publier
+- distribuer
+- sous-licencier
+- vendre
+
+À condition d’inclure la notice de copyright et la licence d’origine.
+
+Voir le fichier [`LICENSE`](./LICENSE) pour le texte complet.
