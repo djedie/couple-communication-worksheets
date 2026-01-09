@@ -98,3 +98,12 @@ Légende Yes, No, Maybe
 Outil créé pour aider les couples à mieux communiquer.  
 Nous avons transformé cette feuille en un outil web : https://www.yes-no-maybe.app   
 Conçu pour explorer envies et limites à votre rythme.
+
+---
+
+### Ressources 
+
+- [Templates Notion pour mieux parler d’intimité en couple](https://www.notion.so/Notion-templates-to-support-intimate-conversations-as-a-couple-2e396da4e8788069bac6e09ba1481dcb?pvs=21) 
+- [Feuille de communication pour couples (Oui / Non / Peut-être)](https://docs.google.com/document/d/1Fu5qkVCddUEZMhH3IgIwxcutNPCyOICYvGRgMN1C-Ds/edit?tab=t.0)
+- [Autres ressources Yes/No/Maybe](https://www.yes-no-maybe.app/fr/ressources)
+
