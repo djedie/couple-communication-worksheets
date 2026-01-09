@@ -63,6 +63,8 @@ We originally created this worksheet for ourselves.
 
 Over time, we turned it into a small app to make comparison and discussion easier, while keeping everything private and pressure free : [https://yes-no-maybe.app](https://yes-no-maybe.app/)
 
+---
+
 ### Related resources
 
 - [Notion templates to support intimate conversations as a couple](https://www.notion.so/Notion-templates-to-support-intimate-conversations-as-a-couple-2e396da4e8788069bac6e09ba1481dcb?pvs=21) 
