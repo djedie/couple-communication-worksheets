@@ -1,124 +1,277 @@
 <!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Yes · No · Maybe Worksheets</title>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Couple Communication Worksheets</title>
+    <meta
+      name="description"
+      content="Simple, non-explicit worksheets to help couples talk about desire, boundaries, and intimacy with clarity and calm."
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fraunces:wght@600;700&family=Work+Sans:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --ink: #2d1636;
+        --muted: rgba(45, 22, 54, 0.7);
+        --card: rgba(255, 255, 255, 0.72);
+        --line: rgba(45, 22, 54, 0.18);
+        --accent: #f54fa5;
+      }
 
-  <style>
-    body {
-      font-family: system-ui, sans-serif;
-      background: linear-gradient(135deg, #fbe3e8, #fff6f2);
-      margin: 0;
-      padding: 0;
-      color: #3c2a3c;
-      line-height: 1.6;
-    }
+      * {
+        box-sizing: border-box;
+      }
 
-    header {
-      text-align: center;
-      padding: 80px 20px 40px;
-    }
+      body {
+        margin: 0;
+        font-family: "Work Sans", system-ui, sans-serif;
+        color: var(--ink);
+        background: radial-gradient(circle at 10% 10%, #ffe2f1, transparent 45%),
+          radial-gradient(circle at 90% 0%, #ffd7ae, transparent 45%),
+          linear-gradient(180deg, #ffeaf3 0%, #fff7f0 100%);
+        min-height: 100vh;
+      }
 
-    h1 {
-      font-size: 48px;
-      margin: 0;
-      font-weight: 700;
-      color: #3c2a3c;
-    }
+      header {
+        padding: 56px 24px 24px;
+        text-align: center;
+      }
 
-    p.sub {
-      margin-top: 10px;
-      font-size: 20px;
-      color: #6a4c6a;
-    }
+      h1 {
+        font-family: "Fraunces", serif;
+        font-size: clamp(2rem, 4vw, 3.1rem);
+        margin: 0 0 12px;
+        letter-spacing: 0.02em;
+      }
 
-    .container {
-      max-width: 800px;
-      margin: 0 auto;
-      padding: 0 20px 60px;
-    }
+      p {
+        margin: 0 0 16px;
+        color: var(--muted);
+        font-size: 1rem;
+      }
 
-    .card {
-      background: #ffffffcc;
-      backdrop-filter: blur(6px);
-      border-radius: 14px;
-      padding: 30px;
-      margin: 25px 0;
-      box-shadow: 0 8px 18px rgba(0, 0, 0, 0.06);
-      transition: transform .2s;
-    }
+      .badges {
+        display: flex;
+        gap: 10px;
+        justify-content: center;
+        flex-wrap: wrap;
+        margin-top: 16px;
+      }
 
-    .card:hover {
-      transform: translateY(-3px);
-    }
+      .wrapper {
+        width: min(980px, 92vw);
+        margin: 0 auto 60px;
+        display: grid;
+        gap: 18px;
+      }
 
-    a.button {
-      display: inline-block;
-      background: #db6b86;
-      color: white;
-      padding: 14px 22px;
-      border-radius: 10px;
-      text-decoration: none;
-      font-weight: 600;
-      margin-top: 10px;
-      transition: background .2s;
-    }
+      .card {
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: 20px;
+        padding: 22px 24px;
+        box-shadow: 0 14px 30px rgba(45, 22, 54, 0.12);
+      }
 
-    a.button:hover {
-      background: #c55a73;
-    }
+      h2 {
+        font-family: "Fraunces", serif;
+        margin: 0 0 10px;
+        font-size: 1.35rem;
+      }
 
-    footer {
-      text-align: center;
-      padding: 40px;
-      color: #6a4c6a;
-      font-size: 14px;
-    }
-  </style>
-</head>
+      ul {
+        margin: 0;
+        padding-left: 18px;
+        color: var(--muted);
+      }
 
-<body>
+      li {
+        margin-bottom: 10px;
+      }
 
-<header>
-  <h1>Yes · No · Maybe Worksheets</h1>
-  <p class="sub">Outils gratuits pour améliorer la communication dans votre couple</p>
-</header>
+      a {
+        color: inherit;
+      }
 
-<div class="container">
+      .grid {
+        display: grid;
+        gap: 18px;
+      }
 
-  <div class="card">
-    <h2>Feuilles de communication</h2>
-    <p>
-      Télécharge la fiche Yes, No, Maybe pour discuter, explorer et clarifier les envies,
-      limites et préférences de chacun de manière simple et non explicite.
-    </p>
-    <a class="button" href="https://www.yes-no-maybe.app/fr/ressources" target="_blank">Accéder aux ressources</a>
-  </div>
+      .worksheet-title {
+        font-weight: 600;
+        margin-bottom: 6px;
+      }
 
-  <div class="card">
-    <h2>Objectif</h2>
-    <p>
-      Créer un espace sécurisé pour que les couples puissent parler plus ouvertement,
-      renforcer la complicité et comprendre les attentes de chacun.
-      Le projet est open source pour encourager les contributions et adaptations.
-    </p>
-  </div>
+      .cta {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        padding: 10px 16px;
+        border-radius: 999px;
+        border: 1px solid var(--line);
+        background: #fff;
+        font-weight: 600;
+        text-decoration: none;
+        color: var(--ink);
+      }
 
-  <div class="card">
-    <h2>Contribuer</h2>
-    <p>
-      Tu veux aider à améliorer les fiches, proposer des catégories ou des traductions,
-      ou contribuer au site principal ?
-    </p>
-    <a class="button" href="https://github.com/djedie/couple-communication-worksheets" target="_blank">Voir le repo GitHub</a>
-  </div>
+      .cta span {
+        color: var(--accent);
+      }
 
-</div>
+      footer {
+        text-align: center;
+        color: var(--muted);
+        font-size: 0.9rem;
+        padding: 24px 16px 40px;
+      }
 
-<footer>
-  © 2026 Yes · No · Maybe — Ressources couples et consentement
-</footer>
+      @media (min-width: 860px) {
+        .grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>Couple Communication Worksheets</h1>
+      <p>
+        Simple, non-explicit worksheets to help couples talk about desire, boundaries, and
+        intimacy in a calm and structured way.
+      </p>
+      <div class="badges">
+        <img
+          src="https://img.shields.io/github/repo-size/djedie/couple-communication-worksheets"
+          alt="Repo size"
+        />
+        <img
+          src="https://img.shields.io/github/license/djedie/couple-communication-worksheets"
+          alt="License"
+        />
+        <img
+          src="https://img.shields.io/github/issues/djedie/couple-communication-worksheets"
+          alt="Issues"
+        />
+      </div>
+    </header>
 
-</body>
+    <main class="wrapper">
+      <section class="card">
+        <h2>Why these worksheets exist</h2>
+        <p>
+          Many couples struggle to talk about intimacy not because they lack desire, but because
+          conversations feel loaded, awkward, or risky.
+        </p>
+        <ul>
+          <li>Writing things down lowers emotional pressure.</li>
+          <li>It allows reflection without immediate response.</li>
+          <li>It creates space for honest, nuanced answers.</li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>Available worksheets</h2>
+        <div class="grid">
+          <div>
+            <div class="worksheet-title">1. Yes / No / Maybe communication worksheet</div>
+            <p class="muted">A structured way to explore desires and limits without pressure.</p>
+            <ul>
+              <li>
+                <a
+                  href="https://github.com/djedie/couple-communication-worksheets/blob/main/worksheets/yes-no-maybe-worksheet-fr.md"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Worksheet FR
+                </a>
+              </li>
+              <li>
+                <a
+                  href="https://github.com/djedie/couple-communication-worksheets/blob/main/worksheets/yes-no-maybe-worksheet-en.md"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Worksheet EN
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <div class="worksheet-title">2. Couple intimacy check-in</div>
+            <p class="muted">A lightweight ritual to check how each partner feels.</p>
+            <ul>
+              <li>
+                <a
+                  href="https://github.com/djedie/couple-communication-worksheets/blob/main/worksheets/couple-intimacy-check-in.md"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Open worksheet
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <div class="worksheet-title">3. Desire alignment</div>
+            <p class="muted">A reflection tool to see where desires overlap or diverge.</p>
+            <ul>
+              <li>
+                <a
+                  href="https://github.com/djedie/couple-communication-worksheets/blob/main/worksheets/desire-alignment.md"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Open worksheet
+                </a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <div class="worksheet-title">4. Before talking about desire</div>
+            <p class="muted">A short preparation worksheet for sensitive conversations.</p>
+            <ul>
+              <li>
+                <a
+                  href="https://github.com/djedie/couple-communication-worksheets/blob/main/worksheets/before-talking-about-desire.md"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Open worksheet
+                </a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
+
+      <section class="card">
+        <h2>How to use these worksheets</h2>
+        <p>
+          There is no “right” way. Some couples fill them independently, then compare. Others
+          use them as journaling prompts or revisit the same worksheet over time.
+        </p>
+        <p>The goal is not agreement, but understanding.</p>
+      </section>
+
+      <section class="card">
+        <h2>About the project</h2>
+        <p>
+          These worksheets inspired a small private web app called <strong>Yes · No · Maybe</strong>.
+          It turns written frameworks into a shared, private space couples can revisit over time.
+        </p>
+        <a class="cta" href="https://www.yes-no-maybe.app" target="_blank" rel="noopener noreferrer">
+          Explore the app <span>→</span>
+        </a>
+      </section>
+    </main>
+
+    <footer>Shared under a Creative Commons Attribution–NonCommercial license.</footer>
+  </body>
 </html>
