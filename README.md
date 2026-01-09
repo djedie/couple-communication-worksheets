@@ -41,8 +41,8 @@ A structured way to explore desires and limits without pressure or obligation.
 - Skip anything marked No
 
 📄 Files:
-- `[worksheets/yes-no-maybe-worksheet-fr.md](https://github.com/djedie/couple-communication-worksheets/blob/main/worksheets/yes-no-maybe-worksheet-fr.md)`
-- `[worksheets/yes-no-maybe-worksheet-en.md](https://github.com/djedie/couple-communication-worksheets/blob/main/worksheets/yes-no-maybe-worksheet-en.md)`
+- [worksheets/yes-no-maybe-worksheet-fr.md](https://github.com/djedie/couple-communication-worksheets/blob/main/worksheets/yes-no-maybe-worksheet-fr.md)
+- [worksheets/yes-no-maybe-worksheet-en.md](https://github.com/djedie/couple-communication-worksheets/blob/main/worksheets/yes-no-maybe-worksheet-en.md)
 
 ---
 
@@ -55,7 +55,7 @@ Useful to:
 - keep communication alive without overanalyzing
 
 📄 File:
-- `[worksheets/couple-intimacy-check-in.md](https://github.com/djedie/couple-communication-worksheets/blob/main/worksheets/couple-intimacy-check-in.md)`
+- [worksheets/couple-intimacy-check-in.md](https://github.com/djedie/couple-communication-worksheets/blob/main/worksheets/couple-intimacy-check-in.md)
 
 ---
 
@@ -63,7 +63,7 @@ Useful to:
 A reflection tool to identify where desires overlap, diverge, or evolve.
 
 📄 File:
-- `worksheets/desire-alignment.md`
+- [worksheets/desire-alignment.md](https://github.com/djedie/couple-communication-worksheets/blob/main/worksheets/desire-alignment.md)
 
 ---
 
@@ -71,7 +71,7 @@ A reflection tool to identify where desires overlap, diverge, or evolve.
 A personal worksheet to clarify thoughts, emotions, and intentions before a sensitive conversation.
 
 📄 File:
-- `[worksheets/before-talking-about-desire.md](https://github.com/djedie/couple-communication-worksheets/blob/main/worksheets/desire-alignment.md)`
+- [worksheets/before-talking-about-desire.md](https://github.com/djedie/couple-communication-worksheets/blob/main/worksheets/before-talking-about-desire.md)
 
 ---
 
