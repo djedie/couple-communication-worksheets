@@ -1,8 +1,20 @@
+![Repo size](https://img.shields.io/github/repo-size/djedie/couple-communication-worksheets)
+![License](https://img.shields.io/github/license/djedie/couple-communication-worksheets)
+![Issues](https://img.shields.io/github/issues/djedie/couple-communication-worksheets)
+
 # Couple Communication Worksheets
 
 This repository contains simple, non-explicit worksheets designed to help couples talk about desire, boundaries, and intimacy in a calm and structured way.
 
 They are meant to be used as conversation starters, not as prescriptions or checklists to “perform correctly”.
+
+## Contents
+
+- [Why these worksheets exist](#why-these-worksheets-exist)
+- [Available worksheets](#available-worksheets)
+- [How to use these worksheets](#how-to-use-these-worksheets)
+- [About the project](#about-the-project)
+- [License](#license)
 
 ---
 
