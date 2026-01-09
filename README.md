@@ -101,6 +101,18 @@ You can learn more here:
 
 ## License
 
-These materials are shared under a Creative Commons Attribution–NonCommercial license.
+This project is released under the **MIT License**.
 
-You are free to use, adapt, and share them for non-commercial purposes, with attribution.
+You are free to:
+- use
+- copy
+- modify
+- merge
+- publish
+- distribute
+- sublicense
+- sell copies
+
+As long as the original copyright and license notice are included.
+
+See the [`LICENSE`](./LICENSE) file for full details.
