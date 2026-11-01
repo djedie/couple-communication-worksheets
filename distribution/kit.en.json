@@ -1,0 +1,122 @@
+{
+  "lang": "en",
+  "title": "A little room to talk",
+  "subtitle": "Three conversation worksheets for adult couples",
+  "intro": "Write privately first. Share only what you choose. You can pause, skip a question, or come back later. These pages support a conversation; they do not ask you to reach an agreement or act on an answer.",
+  "sheets": [
+    {
+      "title": "Couple intimacy check-in",
+      "source": "couple-intimacy-check-in.md",
+      "purpose": "Notice how things feel right now, without needing to fix or decide anything immediately.",
+      "questions": [
+        [
+          "How I feel about our intimacy lately",
+          ""
+        ],
+        [
+          "What feels good or supportive right now",
+          ""
+        ],
+        [
+          "What feels a bit off, missing, or unclear",
+          ""
+        ],
+        [
+          "My current level of openness",
+          "Open and curious / Neutral or unsure / Closed or tired / I don’t know yet"
+        ],
+        [
+          "What I’d like more of (not a demand)",
+          ""
+        ],
+        [
+          "What I’d like less of (or a pause from)",
+          ""
+        ],
+        [
+          "One small thing that would help right now",
+          ""
+        ]
+      ],
+      "note": "This check-in is about noticing and sharing, not negotiating or solving everything at once."
+    },
+    {
+      "title": "Desire alignment",
+      "source": "desire-alignment.md",
+      "purpose": "Identify where desires overlap, differ, or leave room for curiosity, without pressure to act or agree.",
+      "questions": [
+        [
+          "Desires I feel clear about right now",
+          ""
+        ],
+        [
+          "Desires I feel unsure or curious about",
+          ""
+        ],
+        [
+          "Desires that don’t feel right for me at the moment",
+          ""
+        ],
+        [
+          "What “Maybe” means for me today",
+          "More information / More time / Depends on context / Depends on the approach / Open to talking, not doing"
+        ],
+        [
+          "What helps me feel aligned with my partner",
+          ""
+        ],
+        [
+          "What makes alignment harder for me",
+          ""
+        ],
+        [
+          "One question I’d like to explore together",
+          ""
+        ]
+      ],
+      "note": "A Maybe is an opening for conversation, not consent to an activity. A No does not need an explanation."
+    },
+    {
+      "title": "Before talking about desire",
+      "source": "before-talking-about-desire.md",
+      "purpose": "Clarify your thoughts before starting a sensitive conversation.",
+      "questions": [
+        [
+          "What I hope for from this conversation",
+          ""
+        ],
+        [
+          "What feels a little scary for me",
+          ""
+        ],
+        [
+          "What I need to feel safe",
+          "Calm tone / Permission to pause / No immediate decisions / Privacy / Reassurance"
+        ],
+        [
+          "The simple sentence I want to say",
+          ""
+        ],
+        [
+          "What I am not asking for",
+          ""
+        ],
+        [
+          "If the conversation becomes difficult",
+          "Take a break / Postpone / Switch to writing / Change the subject"
+        ],
+        [
+          "Closing sentence",
+          ""
+        ]
+      ],
+      "note": "Keep this page for yourself if you prefer. You choose which thoughts to share."
+    }
+  ],
+  "footer": "Yes · No · Maybe | Conversation, at your own pace",
+  "licenseTitle": "Sources and reuse",
+  "licenseIntro": "Adapted from three existing worksheets in the Couple Communication Worksheets repository. The original copyright and MIT License are reproduced below. The explicit Yes/No/Maybe activity inventories are not part of this selection.",
+  "cta": "For a game to explore together: www.yes-no-maybe.app/en",
+  "sourceLabel": "Source worksheets",
+  "translation": "English edition adapted for print. No answers are collected by this PDF."
+}

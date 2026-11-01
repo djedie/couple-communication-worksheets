@@ -1,0 +1,122 @@
+{
+  "lang": "fr",
+  "title": "Un peu de place pour parler",
+  "subtitle": "Trois feuilles de conversation pour couples adultes",
+  "intro": "Prenez d’abord le temps d’écrire pour vous. Partagez seulement ce que vous choisissez. Vous pouvez passer une question, faire une pause ou revenir plus tard. Ces feuilles ouvrent une conversation, sans objectif d’accord ni obligation d’agir.",
+  "sheets": [
+    {
+      "title": "Faire le point sur notre intimité",
+      "source": "couple-intimacy-check-in.md",
+      "purpose": "Observer ce que vous ressentez aujourd’hui, sans devoir résoudre ou décider quelque chose immédiatement.",
+      "questions": [
+        [
+          "Comment je me sens dans notre intimité en ce moment",
+          ""
+        ],
+        [
+          "Ce qui me fait du bien ou me soutient",
+          ""
+        ],
+        [
+          "Ce qui me manque, me gêne ou reste flou",
+          ""
+        ],
+        [
+          "Mon ouverture du moment",
+          "Envie et curiosité / Neutre ou incertain·e / Fatigue ou repli / Je ne sais pas encore"
+        ],
+        [
+          "Ce dont j’aimerais davantage, sans l’exiger",
+          ""
+        ],
+        [
+          "Ce dont j’aimerais moins, ou dont j’ai besoin de faire une pause",
+          ""
+        ],
+        [
+          "Une petite chose qui m’aiderait aujourd’hui",
+          ""
+        ]
+      ],
+      "note": "Ce point sert à observer et à partager, sans devoir tout négocier ou tout résoudre."
+    },
+    {
+      "title": "Faire le point sur nos envies",
+      "source": "desire-alignment.md",
+      "purpose": "Repérer ce qui se rejoint, ce qui diffère et ce qui éveille la curiosité, sans pression pour agir ou être d’accord.",
+      "questions": [
+        [
+          "Les envies qui sont claires pour moi aujourd’hui",
+          ""
+        ],
+        [
+          "Les envies qui me questionnent ou éveillent ma curiosité",
+          ""
+        ],
+        [
+          "Ce qui ne me convient pas pour le moment",
+          ""
+        ],
+        [
+          "Ce que « Peut-être » veut dire pour moi aujourd’hui",
+          "Plus d’informations / Plus de temps / Cela dépend du contexte / De la façon de proposer / En parler, sans agir"
+        ],
+        [
+          "Ce qui m’aide à me sentir en accord avec mon ou ma partenaire",
+          ""
+        ],
+        [
+          "Ce qui rend cet accord plus difficile",
+          ""
+        ],
+        [
+          "Une question que j’aimerais explorer ensemble",
+          ""
+        ]
+      ],
+      "note": "Un « Peut-être » ouvre une discussion, sans valoir consentement à une activité. Un « Non » n’a pas besoin d’être justifié."
+    },
+    {
+      "title": "Avant de parler de désir",
+      "source": "before-talking-about-desire.md",
+      "purpose": "Clarifier vos pensées avant d’ouvrir une conversation sensible.",
+      "questions": [
+        [
+          "Ce que j’espère de cette conversation",
+          ""
+        ],
+        [
+          "Ce qui me fait un peu peur",
+          ""
+        ],
+        [
+          "Ce dont j’ai besoin pour me sentir en sécurité",
+          "Un ton calme / Pouvoir faire une pause / Aucune décision immédiate / De l’intimité / Être rassuré·e"
+        ],
+        [
+          "La phrase simple que j’aimerais dire",
+          ""
+        ],
+        [
+          "Ce que je ne suis pas en train de demander",
+          ""
+        ],
+        [
+          "Si la conversation devient difficile",
+          "Faire une pause / Reporter / Passer à l’écrit / Changer de sujet"
+        ],
+        [
+          "La phrase avec laquelle j’aimerais terminer",
+          ""
+        ]
+      ],
+      "note": "Vous pouvez garder cette feuille pour vous. Vous choisissez les pensées que vous souhaitez partager."
+    }
+  ],
+  "footer": "Yes · No · Maybe | Une conversation à votre rythme",
+  "licenseTitle": "Sources et réutilisation",
+  "licenseIntro": "Adaptation de trois feuilles existantes du dépôt Couple Communication Worksheets. La notice de copyright et la licence MIT d’origine figurent ci-dessous. Les inventaires explicites Oui/Non/Peut-être ne font pas partie de cette sélection.",
+  "cta": "Pour explorer ensemble avec le jeu : www.yes-no-maybe.app/fr",
+  "sourceLabel": "Feuilles d’origine",
+  "translation": "Traduction française et adaptation pour impression. Ce PDF ne collecte aucune réponse."
+}
