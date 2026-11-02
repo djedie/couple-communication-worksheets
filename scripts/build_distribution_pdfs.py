@@ -18,6 +18,8 @@ INK = HexColor("#2D1636")
 MUTED = HexColor("#63556A")
 ACCENT = HexColor("#9E315D")
 LINE = HexColor("#D8CCD9")
+WRITING_LINE_GAP = 24
+SITE_UTM = "?utm_source=conversation_kit&utm_medium=pdf&utm_campaign=printable_kit"
 
 def fonts():
     options = [
@@ -66,8 +68,9 @@ def build(data):
             if choices:
                 top = paragraph(pdf, choices, MARGIN+13, top-4, 8.5, MUTED)
             pdf.setStrokeColor(LINE)
-            pdf.line(MARGIN+13, top-19, WIDTH-MARGIN, top-19)
-            top -= 43 if not choices else 37
+            for offset in (WRITING_LINE_GAP, 2 * WRITING_LINE_GAP):
+                pdf.line(MARGIN+13, top-offset, WIDTH-MARGIN, top-offset)
+            top -= 2 * WRITING_LINE_GAP + 17
         top = paragraph(pdf, sheet["note"], MARGIN, top-3, 9, ACCENT)
         assert top > 65, "Worksheet text overlaps footer: "+sheet["title"]
         footer(pdf, data, index)
@@ -76,7 +79,7 @@ def build(data):
     top = paragraph(pdf, data["licenseIntro"], MARGIN, top-17, 10)
     top = paragraph(pdf, data["translation"], MARGIN, top-12, 10, MUTED)
     top = paragraph(pdf, data["cta"], MARGIN, top-18, 11, ACCENT, True)
-    pdf.linkURL("https://www.yes-no-maybe.app/"+data["lang"], (MARGIN,top-3,WIDTH-MARGIN,top+17))
+    pdf.linkURL("https://www.yes-no-maybe.app/"+data["lang"]+SITE_UTM, (MARGIN,top-3,WIDTH-MARGIN,top+17))
     top = paragraph(pdf, data["sourceLabel"], MARGIN, top-23, 11, INK, True)
     for sheet in data["sheets"]:
         top = paragraph(pdf, sheet["source"], MARGIN, top-6, 8.5, MUTED)
