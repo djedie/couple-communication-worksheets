@@ -1,6 +1,12 @@
 # Feuilles de communication pour couples
 
-Ce dépôt rassemble des feuilles et templates simples, non explicites, conçus pour aider les couples à parler de désir, de limites et d’intimité de manière posée et structurée.
+Ce dépôt rassemble des feuilles de conversation et des inventaires Oui / Non / Peut-être explicites, destinés aux couples adultes. Ils servent de supports pour parler de désir, de limites et d’intimité.
+
+## Kit de conversation prêt à partager
+
+Pour commencer sans liste de pratiques sexuelles, utilisez le [kit de conversation imprimable](distribution/README.md) : trois feuilles existantes adaptées pour impression, en français et en anglais, avec la licence MIT d’origine.
+
+Les inventaires Oui / Non / Peut-être ci-dessous abordent des sujets sexuels explicites. Choisissez la ressource qui convient à votre public ; leur contenu diffère de la sélection du kit.
 
 Ils sont pensés comme des **supports de discussion**, pas comme des prescriptions ni des checklists à “réussir”.
 

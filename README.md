@@ -4,7 +4,13 @@
 
 # Couple Communication Worksheets
 
-This repository contains simple, non-explicit worksheets designed to help couples talk about desire, boundaries, and intimacy in a calm and structured way.
+This repository contains conversation worksheets and explicit Yes / No / Maybe activity inventories for adult couples. They support conversations about desire, boundaries, and intimacy.
+
+## Ready-to-share conversation kit
+
+For an introduction without sexual activity lists, use the [printable conversation kit](distribution/README.md): three existing worksheets adapted for print, in English and French, with the original MIT License.
+
+The Yes / No / Maybe inventories below contain explicit sexual topics. Choose the resource that fits your audience; they are not the same selection as the printable kit.
 
 They are meant to be used as conversation starters, not as prescriptions or checklists to “perform correctly”.
 
